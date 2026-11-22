@@ -1,4 +1,4 @@
-Task 02 # Customer Cohort & Churn Analytics
+# Task:02 Customer Cohort & Churn Analytics
 
 ##  Project Overview
 This project analyzes telecom/SaaS customer retention behavior using the **IBM Telco Customer Churn** dataset. Customers are segmented by subscription vintage (tenure cohorts), contract types, service tiers, and payment methods to compute retention curves, identify high-risk churn drivers, and propose actionable retention strategies.
